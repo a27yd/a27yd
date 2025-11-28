@@ -42,9 +42,6 @@ Always learning, experimenting, and improving my coding skills.
 ### 🌐 Socials
 
 📧 Email: yourmail@example.com  
-💼 LinkedIn: link-here  
-🐦 Twitter/X: link-here  
-📱 Telegram: link
 
 ---
 
